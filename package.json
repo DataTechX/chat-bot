@@ -1,0 +1,17 @@
+{
+  "name": "bot-chat",
+  "version": "1.0.0",
+  "description": "The project bot responds to a random message.",
+  "main": "bot-chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-chatbot": "^2.0.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3"
+  }
+}
