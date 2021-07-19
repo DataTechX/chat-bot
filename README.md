@@ -15,6 +15,8 @@
 - run `node bot-chat.js` first, and then open new terminal and run `node bot-chat2.js`
 - Note: you need to run your second bot first, and then run your first bot
 
+## IMAGE
+https://cdn.discordapp.com/attachments/804349049192972308/866610798096678933/chat-box.png
 ## License
 
 MIT
